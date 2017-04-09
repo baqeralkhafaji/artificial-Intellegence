@@ -1,0 +1,18 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\ArtificialIntelligence\ArtificialIntelligence\bin\Debug\ArtificialIntelligence.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\ArtificialIntelligence\ArtificialIntelligence\obj\Debug\ArtificialIntelligence.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\ArtificialIntelligence\ArtificialIntelligence\obj\Debug\ArtificialIntelligence.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\ArtificialIntelligence\ArtificialIntelligence\obj\Debug\ArtificialIntelligence.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\ArtificialIntelligence\ArtificialIntelligence\obj\Debug\ArtificialIntelligence.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\ArtificialIntelligence\ArtificialIntelligence\bin\Debug\ArtificialIntelligence.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\ArtificialIntelligence\ArtificialIntelligence\bin\Debug\ArtificialIntelligence.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\ArtificialIntelligence\ArtificialIntelligence\obj\Debug\ArtificialIntelligence.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\ArtificialIntelligence\ArtificialIntelligence\obj\Debug\ArtificialIntelligence.pdb
+C:\Users\LENOVO\Desktop\ArtificialIntelligence\ArtificialIntelligence\bin\Debug\ArtificialIntelligence.exe.config
+C:\Users\LENOVO\Desktop\ArtificialIntelligence\ArtificialIntelligence\bin\Debug\ArtificialIntelligence.exe
+C:\Users\LENOVO\Desktop\ArtificialIntelligence\ArtificialIntelligence\bin\Debug\ArtificialIntelligence.pdb
+C:\Users\LENOVO\Desktop\ArtificialIntelligence\ArtificialIntelligence\obj\Debug\ArtificialIntelligence.Form1.resources
+C:\Users\LENOVO\Desktop\ArtificialIntelligence\ArtificialIntelligence\obj\Debug\ArtificialIntelligence.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\ArtificialIntelligence\ArtificialIntelligence\obj\Debug\ArtificialIntelligence.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\ArtificialIntelligence\ArtificialIntelligence\obj\Debug\ArtificialIntelligence.exe
+C:\Users\LENOVO\Desktop\ArtificialIntelligence\ArtificialIntelligence\obj\Debug\ArtificialIntelligence.pdb
+C:\Users\LENOVO\Desktop\ArtificialIntelligence\ArtificialIntelligence\obj\Debug\ArtificialIntelligence.csprojResolveAssemblyReference.cache
